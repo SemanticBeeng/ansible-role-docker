@@ -11,6 +11,7 @@ docker_restart_handler_state: restarted
 
 # Docker Compose options.
 docker_install_compose: true
+docker_check_service: true
 docker_compose_version: "1.24.1"
 docker_compose_path: /usr/local/bin/docker-compose
 
